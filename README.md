@@ -4,6 +4,6 @@ Keeping track of the scientific literature is hard even with ever increasing acc
 
 I (Daniel) read two papers today (Feb 14):
 
-- [Phylogenomic analysis of trichomycterid catfishes (Teleostei: Siluriformes) inferred from ultraconserved elements(https://www.nature.com/articles/s41598-020-59519-w)
+- [Phylogenomic analysis of trichomycterid catfishes (Teleostei: Siluriformes) inferred from ultraconserved elements](https://www.nature.com/articles/s41598-020-59519-w)
 
 - [Tropical snake diversity collapses after widespread amphibian loss](https://science.sciencemag.org/content/367/6479/814)
