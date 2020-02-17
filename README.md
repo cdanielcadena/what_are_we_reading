@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Feb 17**
 
+- [The multispecies coalescent over-splits species in the case of geographically widespread taxa](https://academic.oup.com/sysbio/article-abstract/69/1/184/5513370?redirectedFrom=fulltext)
+
 - [Genomic data reveal a protracted window of introgression during the diversification of a neotropical woodcreeper radiation](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.13902)
 
 - [Speciation, gene flow, and seasonal migration in Catharus thrushes (Aves:Turdidae)](https://www.sciencedirect.com/science/article/pii/S1055790319302106?via%3Dihub)
