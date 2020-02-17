@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Feb 17**
 
+- [Phylogenetic evidence from freshwater crayfishes that cave adaptation is not an evolutionary dead-end](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.13326)
+
 - [High-throughput sequencing is revealing genetic associations with avian plumage color](https://academic.oup.com/auk/article/136/4/ukz048/5585843)
 
 - [The evolutionary ecology of bird and reptile photoreceptor spectral sensitivities](https://www.sciencedirect.com/science/article/pii/S2352154619300257)
