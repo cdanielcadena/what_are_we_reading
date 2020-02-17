@@ -4,6 +4,8 @@ Keeping track of the scientific literature is hard even with ever increasing acc
 
 **Feb 17**
 
+- [High-throughput sequencing is revealing genetic associations with avian plumage color](https://academic.oup.com/auk/article/136/4/ukz048/5585843)
+
 - [The evolutionary ecology of bird and reptile photoreceptor spectral sensitivities](https://www.sciencedirect.com/science/article/pii/S2352154619300257)
 
 **Feb 14**
