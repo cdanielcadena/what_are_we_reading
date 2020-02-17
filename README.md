@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Feb 17**
 
+- [Speciation, gene flow, and seasonal migration in Catharus thrushes (Aves:Turdidae)](https://www.sciencedirect.com/science/article/pii/S1055790319302106?via%3Dihub)
+
 - [Phylogenetic evidence from freshwater crayfishes that cave adaptation is not an evolutionary dead-end](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.13326)
 
 - [High-throughput sequencing is revealing genetic associations with avian plumage color](https://academic.oup.com/auk/article/136/4/ukz048/5585843)
