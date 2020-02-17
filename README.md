@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Feb 17**
 
+- [Genomic data reveal a protracted window of introgression during the diversification of a neotropical woodcreeper radiation](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.13902)
+
 - [Speciation, gene flow, and seasonal migration in Catharus thrushes (Aves:Turdidae)](https://www.sciencedirect.com/science/article/pii/S1055790319302106?via%3Dihub)
 
 - [Phylogenetic evidence from freshwater crayfishes that cave adaptation is not an evolutionary dead-end](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.13326)
