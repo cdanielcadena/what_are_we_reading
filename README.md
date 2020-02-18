@@ -4,7 +4,7 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Feb 18**
 
-- [Evolution of a multifunctional trait: shared effects of foraging ecology and thermoregulation on beak morphology, with consequences for song evolution]https://royalsocietypublishing.org/doi/10.1098/rspb.2019.2474
+- [Evolution of a multifunctional trait: shared effects of foraging ecology and thermoregulation on beak morphology, with consequences for song evolution](https://royalsocietypublishing.org/doi/10.1098/rspb.2019.2474)
 
 **Feb 17**
 
