@@ -5,7 +5,7 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Feb 24**
 
-- [A long winter for the Red Queen: rethinking the evolution of seasonal migration] (https://onlinelibrary.wiley.com/doi/abs/10.1111/brv.12476)
+- [A long winter for the Red Queen: rethinking the evolution of seasonal migration](https://onlinelibrary.wiley.com/doi/abs/10.1111/brv.12476)
 
 **Feb 22**
 
