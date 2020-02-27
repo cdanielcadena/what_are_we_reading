@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Feb 26**
 
+- [Three bird species new to Brazil from the Serra da Mocidade, a remote mountain in Roraima](http://revbrasilornitol.com.br/BJO/article/view/270408/pdf_1121)
+
 - [The origins of acoustic communication in vertebrates](https://www.nature.com/articles/s41467-020-14356-3)
 
 - [Survey completeness of a global citizen-science database of bird occurrence](https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.04632)
