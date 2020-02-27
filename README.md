@@ -4,7 +4,7 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Feb 27**
 
--[Repeated evolution of circadian clock dysregulation in cavefish populations](https://www.biorxiv.org/content/10.1101/2020.01.14.906628v1)
+- [Repeated evolution of circadian clock dysregulation in cavefish populations](https://www.biorxiv.org/content/10.1101/2020.01.14.906628v1)
 
 - [Genomic evidence for two phylogenetic species and long-term population bottlenecks in red pandas](https://advances.sciencemag.org/content/6/9/eaax5751)
 
@@ -48,18 +48,18 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 - [Genomic data reveal a protracted window of introgression during the diversification of a neotropical woodcreeper radiation](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.13902)
 
-- [Speciation, gene flow, and seasonal migration in Catharus thrushes (Aves:Turdidae)](https://www.sciencedirect.com/science/article/pii/S1055790319302106?via%3Dihub)
+- [7. Speciation, gene flow, and seasonal migration in Catharus thrushes (Aves:Turdidae)](https://www.sciencedirect.com/science/article/pii/S1055790319302106?via%3Dihub)
 
-- [Phylogenetic evidence from freshwater crayfishes that cave adaptation is not an evolutionary dead-end](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.13326)
+- [6. Phylogenetic evidence from freshwater crayfishes that cave adaptation is not an evolutionary dead-end](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.13326)
 
-- [High-throughput sequencing is revealing genetic associations with avian plumage color](https://academic.oup.com/auk/article/136/4/ukz048/5585843)
+- [5. High-throughput sequencing is revealing genetic associations with avian plumage color](https://academic.oup.com/auk/article/136/4/ukz048/5585843)
 
-- [The evolutionary ecology of bird and reptile photoreceptor spectral sensitivities](https://www.sciencedirect.com/science/article/pii/S2352154619300257)
+- [4. The evolutionary ecology of bird and reptile photoreceptor spectral sensitivities](https://www.sciencedirect.com/science/article/pii/S2352154619300257)
 
 **Feb 14**
 
-- [Phylogenomic analysis of trichomycterid catfishes (Teleostei: Siluriformes) inferred from ultraconserved elements](https://www.nature.com/articles/s41598-020-59519-w)
+- [3. Phylogenomic analysis of trichomycterid catfishes (Teleostei: Siluriformes) inferred from ultraconserved elements](https://www.nature.com/articles/s41598-020-59519-w)
 
-- [Tropical snake diversity collapses after widespread amphibian loss](https://science.sciencemag.org/content/367/6479/814)
+- [2. Tropical snake diversity collapses after widespread amphibian loss](https://science.sciencemag.org/content/367/6479/814)
 
-- [Angiosperm speciation cools down in the tropics](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13476)
+- [1. Angiosperm speciation cools down in the tropics](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13476)
