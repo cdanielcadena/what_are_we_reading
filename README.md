@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Feb 27**
 
+- [24. Extensive in situ radiation of feather lice on tinamous](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2019.3005)
+
 - [23. Evolution of gastrointestinal tract morphology and plasticity in cave-adapted Mexican tetra, Astyanax mexicanus](https://www.biorxiv.org/content/10.1101/852814v3)
 
 - [22. Repeated evolution of circadian clock dysregulation in cavefish populations](https://www.biorxiv.org/content/10.1101/2020.01.14.906628v1)
