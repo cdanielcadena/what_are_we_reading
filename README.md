@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Mar 2**
 
+- [26. Plant evolutionary ecology in the age of the extended evolutionary synthesis](https://academic.oup.com/icb/article-abstract/59/3/493/5491828)
+
 - [25. Ten Simple Rules to becoming a principal investigator](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007448)
 
 **Feb 27**
