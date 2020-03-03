@@ -4,7 +4,7 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Mar 2**
 
-- [Ten Simple Rules to becoming a principal investigator](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007448)
+- [25. Ten Simple Rules to becoming a principal investigator](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007448)
 
 **Feb 27**
 
