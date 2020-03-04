@@ -4,15 +4,17 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Mar 4**
 
-- [27. A thirteen-million-year divergence between two lineages of Indonesian coelacanths](https://www.nature.com/articles/s41598-019-57042-1?fbclid=IwAR3aEcChuuxr1i2opGHSAFqxmYBbYlEq7tlEJplArCjl46F80Izv-NfXbag)
+- [28. A thirteen-million-year divergence between two lineages of Indonesian coelacanths](https://www.nature.com/articles/s41598-019-57042-1?fbclid=IwAR3aEcChuuxr1i2opGHSAFqxmYBbYlEq7tlEJplArCjl46F80Izv-NfXbag)
 
 **Mar 2**
 
-- [26. Plant evolutionary ecology in the age of the extended evolutionary synthesis](https://academic.oup.com/icb/article-abstract/59/3/493/5491828)
+- [27. Plant evolutionary ecology in the age of the extended evolutionary synthesis](https://academic.oup.com/icb/article-abstract/59/3/493/5491828)
 
-- [25. Ten Simple Rules to becoming a principal investigator](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007448)
+- [26. Ten Simple Rules to becoming a principal investigator](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007448)
 
 **Feb 27**
+
+- [25. Metabolic rate is negatively linked to adult survival but does not explain latitudinal differences in songbirds](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13464)
 
 - [24. Extensive in situ radiation of feather lice on tinamous](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2019.3005)
 
