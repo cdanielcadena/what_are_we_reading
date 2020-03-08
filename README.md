@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Mar 8**
 
+-[36. An alternative hypothesis for the evolution of same-sex sexual behaviour in animals](https://www.nature.com/articles/s41559-019-1019-7)
+
 - [35. Fin ray patterns at the fin-to-limb transition](https://www.pnas.org/content/117/3/1612)
 
 - [34. Convergent evolution of reduced eggshell conductance in avian brood parasites](https://royalsocietypublishing.org/doi/10.1098/rstb.2018.0194)
