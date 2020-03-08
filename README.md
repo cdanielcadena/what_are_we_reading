@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Mar 8**
 
+- [35. Fin ray patterns at the fin-to-limb transition](https://www.pnas.org/content/117/3/1612)
+
 - [34. Convergent evolution of reduced eggshell conductance in avian brood parasites](https://royalsocietypublishing.org/doi/10.1098/rstb.2018.0194)
 
 - [33. Ecological release of the Anna’s Hummingbird during a northern range expansion](https://www.journals.uchicago.edu/doi/10.1086/704249)
