@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Mar 8**
 
+- [33. Ecological release of the Anna’s Hummingbird during a northern range expansion](https://www.journals.uchicago.edu/doi/10.1086/704249)
+
 - [32. Recurrent convergent evolution at amino acid residue 261 in fish rhodopsin](https://www.pnas.org/content/116/37/18473)
 
 - [31. Allometric escape from acoustic constraints is rare for frog calls](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.6155)
