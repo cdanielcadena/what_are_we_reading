@@ -2,6 +2,10 @@
 
 Keeping up with the scientific literature is hard even with ever increasing access to information via social media and the internet. So we in the [lab](https://evolvert.uniandes.edu.co/), partly inspired by this blog [post](https://haroldpimentel.wordpress.com/2019/10/02/leaderboard/), decided to create a repository to share papers we've been reading lately. Not sure how will this progress, but here's a start to motivate people to (1) start thinking about how to do this and make it most useful, and (2) contribute. For now, I´ll just post papers and links by date in which I read them.
 
+**Mar 9**
+
+- [37. Investigating the utility of traditional and genomic multi-locus datasets to resolve relationships in *Lipaugus* and *Tijuca* (Cotingidae)](https://www.sciencedirect.com/science/article/abs/pii/S1055790320300518)
+
 **Mar 8**
 
 - [36. An alternative hypothesis for the evolution of same-sex sexual behaviour in animals](https://www.nature.com/articles/s41559-019-1019-7)
