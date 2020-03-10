@@ -4,7 +4,7 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Mar 9**
 
--[38. Parallel selection on thermal physiology facilitates repeated adaptation of city lizards to urban heat islands](https://www.nature.com/articles/s41559-020-1131-8)
+- [38. Parallel selection on thermal physiology facilitates repeated adaptation of city lizards to urban heat islands](https://www.nature.com/articles/s41559-020-1131-8)
 
 - [37. Investigating the utility of traditional and genomic multi-locus datasets to resolve relationships in *Lipaugus* and *Tijuca* (Cotingidae)](https://www.sciencedirect.com/science/article/abs/pii/S1055790320300518)
 
