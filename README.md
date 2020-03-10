@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Mar 10**
 
+- [40. Macroevolutionary bursts and constraints generate a rainbow in a clade of tropical birds](https://bmcevolbiol.biomedcentral.com/articles/10.1186/s12862-020-1577-y)
+
 - [39. The anatomy, paleobiology, and evolutionary relationships of the largest extinct side-necked turtle](https://advances.sciencemag.org/content/6/7/eaay4593)
 
 **Mar 9**
