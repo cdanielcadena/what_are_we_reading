@@ -2,6 +2,10 @@
 
 Keeping up with the scientific literature is hard even with ever increasing access to information via social media and the internet. So we in the [lab](https://evolvert.uniandes.edu.co/), partly inspired by this blog [post](https://haroldpimentel.wordpress.com/2019/10/02/leaderboard/), decided to create a repository to share papers we've been reading lately. Not sure how will this progress, but here's a start to motivate people to (1) start thinking about how to do this and make it most useful, and (2) contribute. For now, I´ll just post papers and links by date in which I read them.
 
+**Mar 12**
+
+- [42. Rapid mitochondrial genome sequencing based on Oxford Nanopore Sequencing and a proxy for vertebrate species identification](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.6151)
+
 **Mar 10**
 
 - [41. Why mountains matter for biodiversity](https://onlinelibrary.wiley.com/doi/full/10.1111/jbi.13731)
