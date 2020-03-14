@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Mar 13**
 
+- [44. There's no place like home: tropical overwintering sites may have afundamental role in shaping migratory strategies](https://www.sciencedirect.com/science/article/abs/pii/S0003347220300361)
+
 - [43. Defining catchment origins of a geographical bottleneck: Implications of population mixing and phenological overlap for the conservation of Neotropical migratory birds](https://academic.oup.com/condor/advance-article-abstract/doi/10.1093/condor/duaa004/5788553)
 
 **Mar 12**
