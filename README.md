@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Mar 21**
 
+- [51. Female toads engaging in adaptive hybridization prefer high-quality heterospecifics as mates](Female toads engaging in adaptive hybridization prefer high-quality heterospecifics as mates)
+
 - [50. Quaternary climate changes as speciation drivers in the Amazon floodplains](https://advances.sciencemag.org/content/6/11/eaax4718.abstract)
 
 **Mar 20**
