@@ -4,15 +4,15 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Mar 21**
 
--[50. Quaternary climate changes as speciation drivers in the Amazon floodplains](https://advances.sciencemag.org/content/6/11/eaax4718.abstract)
+- [50. Quaternary climate changes as speciation drivers in the Amazon floodplains](https://advances.sciencemag.org/content/6/11/eaax4718.abstract)
 
 **Mar 20**
 
--[49. Response to Comment on “Amphibian fungal panzootic causes catastrophic and ongoing loss of biodiversity”](https://science.sciencemag.org/content/367/6484/eaay2905)
+- [49. Response to Comment on “Amphibian fungal panzootic causes catastrophic and ongoing loss of biodiversity”](https://science.sciencemag.org/content/367/6484/eaay2905)
 
--[48. Comment on “Amphibian fungal panzootic causes catastrophic and ongoing loss of biodiversity”](https://science.sciencemag.org/content/367/6484/eaay1838)
+- [48. Comment on “Amphibian fungal panzootic causes catastrophic and ongoing loss of biodiversity”](https://science.sciencemag.org/content/367/6484/eaay1838)
 
--[47. Intensive farming drives long-term shifts in avian community composition](https://www.nature.com/articles/s41586-020-2090-6)
+- [47. Intensive farming drives long-term shifts in avian community composition](https://www.nature.com/articles/s41586-020-2090-6)
 
 **Mar 17**
 
