@@ -2,6 +2,18 @@
 
 Keeping up with the scientific literature is hard even with ever increasing access to information via social media and the internet. So we in the [lab](https://evolvert.uniandes.edu.co/), partly inspired by this blog [post](https://haroldpimentel.wordpress.com/2019/10/02/leaderboard/), decided to create a repository to share papers we've been reading lately. Not sure how will this progress, but here's a start to motivate people to (1) start thinking about how to do this and make it most useful, and (2) contribute. For now, I´ll just post papers and links by date in which I read them.
 
+**Mar 21**
+
+-[50. Quaternary climate changes as speciation drivers in the Amazon floodplains](https://advances.sciencemag.org/content/6/11/eaax4718.abstract)
+
+**Mar 20**
+
+-[49. Response to Comment on “Amphibian fungal panzootic causes catastrophic and ongoing loss of biodiversity”](https://science.sciencemag.org/content/367/6484/eaay2905)
+
+-[48. Comment on “Amphibian fungal panzootic causes catastrophic and ongoing loss of biodiversity”](https://science.sciencemag.org/content/367/6484/eaay1838)
+
+-[47. Intensive farming drives long-term shifts in avian community composition](https://www.nature.com/articles/s41586-020-2090-6)
+
 **Mar 17**
 
 - [46. The proximal origin of SARS-CoV-2](https://www.nature.com/articles/s41591-020-0820-9)`
