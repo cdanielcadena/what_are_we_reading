@@ -22,7 +22,7 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Mar 17**
 
-- [46. The proximal origin of SARS-CoV-2](https://www.nature.com/articles/s41591-020-0820-9)`
+- [46. The proximal origin of SARS-CoV-2](https://www.nature.com/articles/s41591-020-0820-9)
 
 **Mar 15**
 
