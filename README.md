@@ -2,6 +2,10 @@
 
 Keeping up with the scientific literature is hard even with ever increasing access to information via social media and the internet. So we in the [lab](https://evolvert.uniandes.edu.co/), partly inspired by this blog [post](https://haroldpimentel.wordpress.com/2019/10/02/leaderboard/), decided to create a repository to share papers we've been reading lately. Not sure how will this progress, but here's a start to motivate people to (1) start thinking about how to do this and make it most useful, and (2) contribute. For now, I´ll just post papers and links by date in which I read them.
 
+**Apr 5**
+
+- [57. Pelagic fish predation is stronger at temperate latitudes than near the equator](https://www.nature.com/articles/s41467-020-15335-4)
+
 **Apr 3**
 
 - [56. Inferring the mammal tree: Species-level sets of phylogenies for questions in ecology, evolution, and conservation](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000494)
