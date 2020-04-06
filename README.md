@@ -4,7 +4,7 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Apr 6**
 
-- [62.Climate change and maladaptive wing shortening in a long-distance migratory bird](https://academic.oup.com/auk/article-lookup/doi/10.1093/auk/ukaa012)
+- [62. Climate change and maladaptive wing shortening in a long-distance migratory bird](https://academic.oup.com/auk/article-lookup/doi/10.1093/auk/ukaa012)
 
 **Apr 5**
 
