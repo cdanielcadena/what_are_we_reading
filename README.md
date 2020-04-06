@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Apr 6**
 
+- [65. Dramatic dietary shift maintains sequestered toxins in chemically defended snakes](https://www.pnas.org/content/117/11/5964)
+
 - [64. Phylogenetics is the new genetics (for most of biodiversity)](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(20)30007-0)
 
 - [63. Ghost introgression: Spooky gene flow in the distant past](https://onlinelibrary.wiley.com/doi/full/10.1002/bies.202000012?platform=hootsuite)
