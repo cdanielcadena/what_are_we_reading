@@ -4,6 +4,10 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Apr 5**
 
+- [61. When Pigs Fly: Pandemic influenza enters the 21st century](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008259)
+
+**Apr 4**
+
 - [60. Heterospecific eavesdropping on an anti-parasitic referential alarm call](https://www.nature.com/articles/s42003-020-0875-7)
 
 - [59. A combinatorial view on speciation and adaptive radiation](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(19)30055-2)
