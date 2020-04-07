@@ -4,7 +4,7 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Apr 7**
 
-- [70. Contrasting the suitability of shade coffee agriculture and native forest as overwinter habitat for Canada Warbler (Cardellina canadensis) in the Colombian Andes](https://academic.oup.com/condor/advance-article/doi/10.1093/condor/duaa011/5816297)
+- [70. Contrasting the suitability of shade coffee agriculture and native forest as overwinter habitat for Canada Warbler (*Cardellina canadensis*) in the Colombian Andes](https://academic.oup.com/condor/advance-article/doi/10.1093/condor/duaa011/5816297)
 
 - [69. Patch size and vegetation structure drive changes to mixed-species flock diversity and composition across a gradient of fragment sizes in the Western Andes of Colombia](https://academic.oup.com/condor/advance-article-abstract/doi/10.1093/condor/duaa006/5803217?redirectedFrom=fulltext)
 
