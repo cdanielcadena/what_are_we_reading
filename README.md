@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Apr 7**
 
+- [68. Global wildlife trade across the tree of life](https://science.sciencemag.org/content/366/6461/71)
+
 - [67. The vocal organ of hummingbirds shows convergence with songbirds](https://www.nature.com/articles/s41598-020-58843-5)
 
 **Apr 6**
