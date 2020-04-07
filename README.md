@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Apr 7**
 
+- [69. Patch size and vegetation structure drive changes to mixed-species flock diversity and composition across a gradient of fragment sizes in the Western Andes of Colombia](https://academic.oup.com/condor/advance-article-abstract/doi/10.1093/condor/duaa006/5803217?redirectedFrom=fulltext)
+
 - [68. Global wildlife trade across the tree of life](https://science.sciencemag.org/content/366/6461/71)
 
 - [67. The vocal organ of hummingbirds shows convergence with songbirds](https://www.nature.com/articles/s41598-020-58843-5)
