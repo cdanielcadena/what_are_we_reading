@@ -4,7 +4,7 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Apr 8**
 
--[71. Drift and directional selection are the evolutionary forces driving gene expression divergence in eye and brain tissue of *Heliconius* butterflies](https://www.genetics.org/content/213/2/581.abstract)
+- [71. Drift and directional selection are the evolutionary forces driving gene expression divergence in eye and brain tissue of *Heliconius* butterflies](https://www.genetics.org/content/213/2/581.abstract)
 
 **Apr 7**
 
