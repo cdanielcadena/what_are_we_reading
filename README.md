@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Apr 9**
 
+- [74. A parapithecid stem anthropoid of African origin in the Paleogene of South America](https://science.sciencemag.org/content/368/6487/194)
+
 - [73. Birds in fragmented Amazonian rainforest: Lessons from 40 years at the Biological Dynamics of Forest Fragments Project](https://academic.oup.com/condor/advance-article/doi/10.1093/condor/duaa005/5816446)
 
 - [72. Comparing adaptive radiations across space, time, and taxa](https://academic.oup.com/jhered/article/111/1/1/5709827)
