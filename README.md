@@ -5,6 +5,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Apr 10**
 
+- [78. Climate and geographic distance are more influential than rivers on the beta diversity of passerine birds in Amazonia](https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.04753)
+
 - [77. Speciation and the city](https://www.sciencedirect.com/science/article/abs/pii/S0169534718302003)
 
 - [76. Natural selection and spatial cognition in wild food-caching Mountain Chickadees](https://www.sciencedirect.com/science/article/pii/S0960982219300077)
