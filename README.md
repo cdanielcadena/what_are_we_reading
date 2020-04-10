@@ -5,6 +5,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Apr 10**
 
+- [76. Natural selection and spatial cognition in wild food-caching Mountain Chickadees](https://www.sciencedirect.com/science/article/pii/S0960982219300077)
+
 - [75. Anthropogenic noise impairs foraging for cryptic prey via cross-sensory interference](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2019.2951)
 
 **Apr 9**
