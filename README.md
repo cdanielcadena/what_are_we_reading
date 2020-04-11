@@ -4,7 +4,7 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Apr 11**
 
--[79. Oxpeckers help rhinos evade humans](https://www.cell.com/current-biology/fulltext/S0960-9822(20)30353-5)
+- [79. Oxpeckers help rhinos evade humans](https://www.cell.com/current-biology/fulltext/S0960-9822(20)30353-5)
 
 
 **Apr 10**
