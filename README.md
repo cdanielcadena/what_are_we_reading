@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Apr 11**
 
+- [81. Theory in service of narratives in evolution and ecology](https://www.journals.uchicago.edu/doi/abs/10.1086/705991)
+
 - [80. Evolution of sexual cooperation from sexual conflict](https://www.pnas.org/content/116/46/23225)
 
 - [79. Oxpeckers help rhinos evade humans](https://www.cell.com/current-biology/fulltext/S0960-9822(20)30353-5)
