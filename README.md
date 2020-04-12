@@ -4,7 +4,7 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Apr 12**
 
-- [82. Global shifts in mammalian population trends reveal key predictors of virus spillover risk] (https://royalsocietypublishing.org/doi/10.1098/rspb.2019.2736)
+- [82. Global shifts in mammalian population trends reveal key predictors of virus spillover risk](https://royalsocietypublishing.org/doi/10.1098/rspb.2019.2736)
 
 **Apr 11**
 
