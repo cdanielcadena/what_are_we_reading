@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Apr 13**
 
+- [86. Gradual evolution towards flightlessness in steamer ducks](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.13758)
+
 - [85. Subtle, pervasive genetic correlation between the sexes in the evolution of dimorphic hummingbird tail ornaments](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.13881)
 
 **Apr 12**
