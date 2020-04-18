@@ -5,6 +5,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Apr 18**
 
+- [93. Vastly underestimated species richness of Amazonian salamanders (Plethodontidae: *Bolitoglossa*) and implications about plethodontid diversification](https://www.sciencedirect.com/science/article/abs/pii/S1055790320301135)
+
 - [92. Variation in brown rat cranial shape shows directional selection over 120 years in New York City](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.6228)
 
 **Apr 17**
