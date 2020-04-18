@@ -4,7 +4,7 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Apr 16**
 
-- [91. Evolutionary trees can’t reveal speciation and extinction rate]s(https://www.nature.com/articles/d41586-020-01021-4)
+- [91. Evolutionary trees can’t reveal speciation and extinction rates](https://www.nature.com/articles/d41586-020-01021-4)
 
 - [90. Coalescent-based species delimitation is sensitive to geographic sampling and isolation by distance](https://www.tandfonline.com/doi/abs/10.1080/14772000.2020.1730475?journalCode=tsab20)
 
