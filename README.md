@@ -5,7 +5,7 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Apr 20**
 
-- [96. Genome‐wide signals of drift and local adaptation during rapid lineage divergence in a songbird] (https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.14946)
+- [96. Genome‐wide signals of drift and local adaptation during rapid lineage divergence in a songbird](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.14946)
 
 - [95. Being red, blue and green: the genetic basis of coloration differences in the strawberry poison frog (*Oophaga pumilio*)](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-6719-5)
 
