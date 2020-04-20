@@ -5,7 +5,7 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Apr 20**
 
-- [97. Mitochondrial genomes and thousands of ultraconserved elements resolve the taxonomy and historical biogeography of the *Euphonia* and *Chlorophonia* finches (Passeriformes: Fringillidae)] (https://academic.oup.com/auk/article/doi/10.1093/auk/ukaa016/5820899?searchresult=1)
+- [97. Mitochondrial genomes and thousands of ultraconserved elements resolve the taxonomy and historical biogeography of the *Euphonia* and *Chlorophonia* finches (Passeriformes: Fringillidae)](https://academic.oup.com/auk/article/doi/10.1093/auk/ukaa016/5820899?searchresult=1)
 
 - [96. Genome‐wide signals of drift and local adaptation during rapid lineage divergence in a songbird](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.14946)
 
