@@ -5,7 +5,7 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Apr 20**
 
--[98. Experimental studies of evolution and eco-evo dynamics in guppies (*Poecilia reticulata*)](https://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-110218-024926)
+- [98. Experimental studies of evolution and eco-evo dynamics in guppies (*Poecilia reticulata*)](https://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-110218-024926)
 
 - [97. Mitochondrial genomes and thousands of ultraconserved elements resolve the taxonomy and historical biogeography of the *Euphonia* and *Chlorophonia* finches (Passeriformes: Fringillidae)](https://academic.oup.com/auk/article/doi/10.1093/auk/ukaa016/5820899?searchresult=1)
 
