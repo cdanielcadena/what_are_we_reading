@@ -5,6 +5,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Apr 21**
 
+- [100. How migratory populations become resident](https://royalsocietypublishing.org/doi/10.1098/rspb.2019.3011)
+
 - [99. Fast diversification through a mosaic of evolutionary histories characterizes the endemic flora of ancient Neotropical mountains](https://royalsocietypublishing.org/doi/10.1098/rspb.2019.2933)
 
 **Apr 20**
