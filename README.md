@@ -5,6 +5,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Apr 22**
 
+- [102. Genetic architecture of a key reproductive isolation trait differs between sympatric and non-sympatric sister species of Lake Victoria cichlids](https://royalsocietypublishing.org/doi/10.1098/rspb.2020.0270)
+
 - [101. Alternative ecological strategies lead to avian brain size bimodality in variable habitats](https://www.nature.com/articles/s41467-019-11757-x)
 
 **Apr 21**
