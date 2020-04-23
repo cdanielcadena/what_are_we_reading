@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Apr 23**
 
+- [104. The evolutionary history and genomics of European blackcap migration](https://elifesciences.org/articles/54462)
+
 - [103. Widespread genetic connectivity of feral pigeons across the Northeastern megacity](https://onlinelibrary.wiley.com/doi/full/10.1111/eva.12972)
 
 
