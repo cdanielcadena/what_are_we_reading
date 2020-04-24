@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Apr 24**
 
+- [107. Whole-genome analysis across 10 songbird families within Sylvioidea reveals a novel autosome–sex chromosome fusion](https://royalsocietypublishing.org/doi/10.1098/rsbl.2020.0082)
+
 - [106. Tempo and pattern of avian brain size evolution](https://www.sciencedirect.com/science/article/abs/pii/S0960982220304309)
 
 - [105. Can avian functional traits predict cultural ecosystem services?](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1002/pan3.10058)
