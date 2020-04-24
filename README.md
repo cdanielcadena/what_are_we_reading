@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Apr 24**
 
+- [106. Tempo and pattern of avian brain size evolution](https://www.sciencedirect.com/science/article/abs/pii/S0960982220304309)
+
 - [105. Can avian functional traits predict cultural ecosystem services?](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1002/pan3.10058)
 
 **Apr 23**
