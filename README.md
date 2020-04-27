@@ -2,6 +2,10 @@
 
 Keeping up with the scientific literature is hard even with ever increasing access to information via social media and the internet. So we in the [lab](https://evolvert.uniandes.edu.co/), partly inspired by this blog [post](https://haroldpimentel.wordpress.com/2019/10/02/leaderboard/), decided to create a repository to share papers we've been reading lately. Not sure how will this progress, but here's a start to motivate people to (1) start thinking about how to do this and make it most useful, and (2) contribute. For now, I´ll just post papers and links by date in which I read them.
 
+**Apr 27**
+
+- [108. An inverse latitudinal gradient in infection probability and phylogenetic diversity for *Leucocytozoon* blood parasites in New World birds](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2656.13117)
+
 **Apr 24**
 
 - [107. Whole-genome analysis across 10 songbird families within Sylvioidea reveals a novel autosome–sex chromosome fusion](https://royalsocietypublishing.org/doi/10.1098/rsbl.2020.0082)
