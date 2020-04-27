@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Apr 27**
 
+- [110. Life history predicts flight muscle phenotype and function in birds](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2656.13190)
+
 - [109. Whole-genome analysis across 10 songbird families within Sylvioidea reveals a novel autosome–sex chromosome fusion](https://royalsocietypublishing.org/doi/10.1098/rsbl.2020.0082)
 
 - [108. An inverse latitudinal gradient in infection probability and phylogenetic diversity for *Leucocytozoon* blood parasites in New World birds](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2656.13117)
