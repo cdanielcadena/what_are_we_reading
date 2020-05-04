@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **May 4**
 
+- [117. “Frozen evolution” of an RNA virus suggests accidental release as a potential cause of arbovirus re-emergence](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000673)
+
 - [116. Null hypotheses for developmental evolution](https://dev.biologists.org/content/147/8/dev178004)
 
 **Apr 29**
