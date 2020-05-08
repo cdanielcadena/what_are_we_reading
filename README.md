@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **May 8**
 
+- [121. Where is natural history in ecological, evolutionary, and behavioral science?](https://www.journals.uchicago.edu/doi/abs/10.1086/708765?mobileUi=0)
+
 - [120. Sex chromosomes manipulate mate choice](https://www.nature.com/articles/d41586-019-01714-5)
 
 **May 7**
