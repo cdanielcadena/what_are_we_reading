@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **May 11**
 
+- [123. Testing the simple and complex versions of Gloger’s rule in the Variable Antshrike (*Thamnophilus caerulescens*, Thamnophilidae)](https://academic.oup.com/auk/advance-article-abstract/doi/10.1093/auk/ukaa026/5834544?redirectedFrom=fulltext)
+
 - [122. The influence of seasonal migration on range size in temperate North American passerines](https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.05070)
 
 **May 8**
