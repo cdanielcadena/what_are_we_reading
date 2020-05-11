@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **May 11**
 
+- [125. An early Oligocene stem Galbulae (jacamars and puffbirds) from southern France, and the position of the Paleogene family Sylphornithidae](https://academic.oup.com/auk/advance-article-abstract/doi/10.1093/auk/ukaa023/5834542)
+
 - [124. COVID-19 in Latin America: Novel transmission dynamics for a global pandemic?](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0008265)
 
 - [123. Testing the simple and complex versions of Gloger’s rule in the Variable Antshrike (*Thamnophilus caerulescens*, Thamnophilidae)](https://academic.oup.com/auk/advance-article-abstract/doi/10.1093/auk/ukaa026/5834544?redirectedFrom=fulltext)
