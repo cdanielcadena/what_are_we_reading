@@ -2,6 +2,10 @@
 
 Keeping up with the scientific literature is hard even with ever increasing access to information via social media and the internet. So we in the [lab](https://evolvert.uniandes.edu.co/), partly inspired by this blog [post](https://haroldpimentel.wordpress.com/2019/10/02/leaderboard/), decided to create a repository to share papers we've been reading lately. Not sure how will this progress, but here's a start to motivate people to (1) start thinking about how to do this and make it most useful, and (2) contribute. For now, I´ll just post papers and links by date in which I read them.
 
+**May 27**
+
+- [132. Ecology and allometry predict the evolution of avian developmental durations](https://www.nature.com/articles/s41467-020-16257-x)
+
 **May 25**
 
 - [131. Emergence of genomic diversity and recurrent mutations in SARS-CoV-2](https://www.sciencedirect.com/science/article/pii/S1567134820301829)
