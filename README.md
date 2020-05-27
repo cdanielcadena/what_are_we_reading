@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **May 27**
 
+- [133. Competition and hybridization drive interspecific territoriality in birds](https://www.pnas.org/content/early/2020/05/20/1921380117)
+
 - [132. Ecology and allometry predict the evolution of avian developmental durations](https://www.nature.com/articles/s41467-020-16257-x)
 
 **May 25**
