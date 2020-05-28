@@ -2,6 +2,10 @@
 
 Keeping up with the scientific literature is hard even with ever increasing access to information via social media and the internet. So we in the [lab](https://evolvert.uniandes.edu.co/), partly inspired by this blog [post](https://haroldpimentel.wordpress.com/2019/10/02/leaderboard/), decided to create a repository to share papers we've been reading lately. Not sure how will this progress, but here's a start to motivate people to (1) start thinking about how to do this and make it most useful, and (2) contribute. For now, I´ll just post papers and links by date in which I read them.
 
+**May 28**
+
+- [135. Bumble bees damage plant leaves and accelerate flower production when pollen is scarce](https://science.sciencemag.org/content/368/6493/881)
+
 **May 27**
 
 - [134. Evolution between forest macrorefugia is linked to discordance between genetic and morphological variation in Neotropical passerines](https://www.sciencedirect.com/science/article/pii/S1055790320301214)
