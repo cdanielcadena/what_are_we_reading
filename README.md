@@ -4,7 +4,7 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **May 29**
 
-- [137. Ancient genetic divergence in bumblebee catfish of the genus Pseudopimelodus (Pseudopimelodidae: Siluriformes) from northwestern South America](https://peerj.com/articles/9028/)
+- [137. Ancient genetic divergence in bumblebee catfish of the genus *Pseudopimelodus* (Pseudopimelodidae: Siluriformes) from northwestern South America](https://peerj.com/articles/9028/)
 
 **May 28**
 
