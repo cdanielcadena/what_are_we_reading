@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Jun 1**
 
+- [141. A peacock bass (*Cichla*) functional novelty relaxes a constraint imposed by the classic cichlid pharyngeal jaw innovation](https://academic.oup.com/biolinnean/article-abstract/130/2/382/5841036)
+
 - [140. Recent introgression between Taiga Bean Goose and Tundra Bean Goose results in a largely homogeneous landscape of genetic differentiation](https://www.nature.com/articles/s41437-020-0322-z)
 
 - [139. Origin and cross-species transmission of bat coronaviruses in China](https://www.biorxiv.org/content/10.1101/2020.05.31.116061v1?rss=1)
