@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Jun 2**
 
+- [144. Triad hybridization via a conduit species](https://www.pnas.org/content/117/14/7888)
+
 - [143. Alternative views of biological species: reproductively isolated units or genotypic clusters?](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaa116/5849030)
 
 - [142. Assortative mating in hybrid zones is remarkably ineffective in promoting speciation](https://www.journals.uchicago.edu/doi/10.1086/708529)
