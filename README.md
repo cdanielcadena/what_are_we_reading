@@ -2,6 +2,10 @@
 
 Keeping up with the scientific literature is hard even with ever increasing access to information via social media and the internet. So we in the [lab](https://evolvert.uniandes.edu.co/), partly inspired by this blog [post](https://haroldpimentel.wordpress.com/2019/10/02/leaderboard/), decided to create a repository to share papers we've been reading lately. Not sure how will this progress, but here's a start to motivate people to (1) start thinking about how to do this and make it most useful, and (2) contribute. For now, I´ll just post papers and links by date in which I read them.
 
+**Jun 2**
+
+- [142. Assortative mating in hybrid zones is remarkably ineffective in promoting speciation](https://www.journals.uchicago.edu/doi/10.1086/708529)
+
 **Jun 1**
 
 - [141. A peacock bass (*Cichla*) functional novelty relaxes a constraint imposed by the classic cichlid pharyngeal jaw innovation](https://academic.oup.com/biolinnean/article-abstract/130/2/382/5841036)
