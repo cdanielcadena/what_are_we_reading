@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Jun 5**
 
+- [Transgressing Wallace’s Line brings hyperdiverse weevils down to earth](https://onlinelibrary.wiley.com/doi/10.1111/ecog.05128)
+
 - [148. Light-level geolocation reveals the migration route and non-breeding location of an Antillean Nighthawk (*Chordeiles gundlachii*)](https://jco.birdscaribbean.org/index.php/jco/article/view/1221)
 
 - [147. A revised classification of the Xolmiini (Aves: Tyrannidae: Fluvicolinae), including a new genus for *Muscisaxicola fluviatilis*](https://meridian.allenpress.com/pbsw/article-abstract/133/1/35/436473)
