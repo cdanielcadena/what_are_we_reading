@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Jun 9**
 
+- [152. Climatic-niche evolution follows similar rules in plants and animals](https://www.nature.com/articles/s41559-020-1158-x)
+
 - [151. A simple index to quantify and compare the magnitude of intraspecific geographic plumage colour variation in typical antbirds (Aves: Passeriformes: Thamnophilidae)](https://academic.oup.com/biolinnean/article-abstract/130/2/239/5818083)
 
 **Jun 8**
