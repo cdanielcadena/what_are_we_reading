@@ -5,11 +5,11 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Jun 16**
 
--[154. Wild hummingbirds discriminate nonspectral colors](https://www.pnas.org/content/early/2020/06/09/1919377117)
+- [154. Wild hummingbirds discriminate nonspectral colors](https://www.pnas.org/content/early/2020/06/09/1919377117)
 
 **Jun 15**
 
-153.
+- [153. Does the virus cross the road? Viral phylogeographic patterns among bobcat populations reflect a history of urban development](https://onlinelibrary.wiley.com/doi/full/10.1111/eva.12927)
 
 **Jun 9**
 
