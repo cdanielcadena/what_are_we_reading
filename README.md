@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Jun 30**
 
+- [160. A gene for color differences between sexes](https://science.sciencemag.org/content/368/6496/1185)
+
 - [159. A genetic mechanism for sexual dichromatism in birds](https://science.sciencemag.org/content/368/6496/1270)
 
 - [158. Genomic epidemiology of SARS-CoV-2 in Colombia](https://www.medrxiv.org/content/10.1101/2020.06.26.20135715v1)
