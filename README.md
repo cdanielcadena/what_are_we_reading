@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Jul 4**
 
+- [166. The major genetic risk factor for severe COVID-19 is inherited from Neandertals](https://www.biorxiv.org/content/10.1101/2020.07.03.186296v1)
+
 - [165. Morphological evidence for an oral venom system in caecilian amphibians](https://www.cell.com/iscience/fulltext/S2589-0042(20)30419-3)
 
 **Jul 3**
