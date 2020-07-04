@@ -4,7 +4,7 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Jul 4**
 
-- [165. Morphological evidence for an oral venom system in caecilian amphibians] (https://www.cell.com/iscience/fulltext/S2589-0042(20)30419-3)
+- [165. Morphological evidence for an oral venom system in caecilian amphibians](https://www.cell.com/iscience/fulltext/S2589-0042(20)30419-3)
 
 **Jul 3**
 
