@@ -2,6 +2,10 @@
 
 Keeping up with the scientific literature is hard even with ever increasing access to information via social media and the internet. So we in the [lab](https://evolvert.uniandes.edu.co/), partly inspired by this blog [post](https://haroldpimentel.wordpress.com/2019/10/02/leaderboard/), decided to create a repository to share papers we've been reading lately. Not sure how will this progress, but here's a start to motivate people to (1) start thinking about how to do this and make it most useful, and (2) contribute. For now, I´ll just post papers and links by date in which I read them.
 
+**Jul 6**
+
+- [167. Is population subdivision different from speciation? From phylogeography to species delimitation](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.6524)
+
 **Jul 4**
 
 - [166. The major genetic risk factor for severe COVID-19 is inherited from Neandertals](https://www.biorxiv.org/content/10.1101/2020.07.03.186296v1)
