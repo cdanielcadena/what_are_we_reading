@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Jul 6**
 
+- [168. While neither universally applicable nor practical operationally, the biological species concept continues to offer a compelling framework for studying species and speciation](https://academic.oup.com/nsr/article/doi/10.1093/nsr/nwaa108/5855050)
+
 - [167. Is population subdivision different from speciation? From phylogeography to species delimitation](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.6524)
 
 **Jul 4**
