@@ -2,6 +2,11 @@
 
 Keeping up with the scientific literature is hard even with ever increasing access to information via social media and the internet. So we in the [lab](https://evolvert.uniandes.edu.co/), partly inspired by this blog [post](https://haroldpimentel.wordpress.com/2019/10/02/leaderboard/), decided to create a repository to share papers we've been reading lately. Not sure how will this progress, but here's a start to motivate people to (1) start thinking about how to do this and make it most useful, and (2) contribute. For now, I´ll just post papers and links by date in which I read them.
 
+
+**Jul 8**
+
+- [169. Variation in carotenoid-containing retinal oil droplets correlates with variation in perception of carotenoid coloration](https://link.springer.com/article/10.1007/s00265-020-02874-5)
+
 **Jul 6**
 
 - [168. While neither universally applicable nor practical operationally, the biological species concept continues to offer a compelling framework for studying species and speciation](https://academic.oup.com/nsr/article/doi/10.1093/nsr/nwaa108/5855050)
