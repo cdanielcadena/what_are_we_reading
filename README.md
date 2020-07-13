@@ -5,6 +5,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Jul 13**
 
+- [171. Expanding the eggshell colour gamut: uroerythrin and bilirubin from tinamou (Tinamidae) eggshells](https://www.nature.com/articles/s41598-020-68070-7)
+
 - [170. The genomic footprint of coastal earthquake uplift](https://royalsocietypublishing.org/doi/10.1098/rspb.2020.0712)
 
 **Jul 8**
