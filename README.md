@@ -3,6 +3,10 @@
 Keeping up with the scientific literature is hard even with ever increasing access to information via social media and the internet. So we in the [lab](https://evolvert.uniandes.edu.co/), partly inspired by this blog [post](https://haroldpimentel.wordpress.com/2019/10/02/leaderboard/), decided to create a repository to share papers we've been reading lately. Not sure how will this progress, but here's a start to motivate people to (1) start thinking about how to do this and make it most useful, and (2) contribute. For now, I´ll just post papers and links by date in which I read them.
 
 
+**Jul 14**
+
+- [172.The evolution of seasonal migration and the slow-fast continuum of life history in birds](https://www.biorxiv.org/content/10.1101/2020.06.27.175539v1)
+
 **Jul 13**
 
 - [171. Expanding the eggshell colour gamut: uroerythrin and bilirubin from tinamou (Tinamidae) eggshells](https://www.nature.com/articles/s41598-020-68070-7)
