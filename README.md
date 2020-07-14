@@ -5,7 +5,7 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Jul 14**
 
-- [172.The evolution of seasonal migration and the slow-fast continuum of life history in birds](https://www.biorxiv.org/content/10.1101/2020.06.27.175539v1)
+- [172. The evolution of seasonal migration and the slow-fast continuum of life history in birds](https://www.biorxiv.org/content/10.1101/2020.06.27.175539v1)
 
 **Jul 13**
 
