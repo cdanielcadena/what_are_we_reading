@@ -3,6 +3,10 @@
 Keeping up with the scientific literature is hard even with ever increasing access to information via social media and the internet. So we in the [lab](https://evolvert.uniandes.edu.co/), partly inspired by this blog [post](https://haroldpimentel.wordpress.com/2019/10/02/leaderboard/), decided to create a repository to share papers we've been reading lately. Not sure how will this progress, but here's a start to motivate people to (1) start thinking about how to do this and make it most useful, and (2) contribute. For now, I´ll just post papers and links by date in which I read them.
 
 
+**Jun 17**
+
+-[177. High-resolution terrestrial climate, bioclimate and vegetation for the last 120,000 years](https://www.nature.com/articles/s41597-020-0552-1)
+
 **Jul 15**
 
 - [176. The delayed and geographically heterogeneous diversification of flowering plant families](https://www.nature.com/articles/s41559-020-1241-3)
