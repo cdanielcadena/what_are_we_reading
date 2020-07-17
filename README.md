@@ -5,7 +5,7 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Jun 17**
 
--[177. High-resolution terrestrial climate, bioclimate and vegetation for the last 120,000 years](https://www.nature.com/articles/s41597-020-0552-1)
+- [177. High-resolution terrestrial climate, bioclimate and vegetation for the last 120,000 years](https://www.nature.com/articles/s41597-020-0552-1)
 
 **Jul 15**
 
