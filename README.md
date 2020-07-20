@@ -4,6 +4,7 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 
 **Jul 20**
+-[180. Sequential molt in a feathered dinosaur and implications for early paravian ecology and locomotion](https://www.sciencedirect.com/science/article/abs/pii/S0960982220308629)
 
 - [179. Smaller brained cliff swallows are more likely to die during harsh weather](https://royalsocietypublishing.org/doi/full/10.1098/rsbl.2020.0264)
 
