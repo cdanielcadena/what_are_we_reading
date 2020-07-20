@@ -5,7 +5,7 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Jul 20**
 
--[179. Smaller brained cliff swallows are more likely to die during harsh weather](https://royalsocietypublishing.org/doi/full/10.1098/rsbl.2020.0264)
+- [179. Smaller brained cliff swallows are more likely to die during harsh weather](https://royalsocietypublishing.org/doi/full/10.1098/rsbl.2020.0264)
 
 **Jul 18**
 
