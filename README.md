@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Jul 22**
 
+- [182. Patterns of speciation are similar across mountainous and lowland regions for a Neotropical plant radiation (Costaceae: *Costus*)](https://www.biorxiv.org/content/10.1101/2020.05.30.125757v1)
+
 - [181. Hygric niches for tropical endotherms](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(20)30173-7)
 
 **Jul 20**
