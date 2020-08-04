@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Aug 4**
 
+- [188. Bird migration within the Neotropics](https://academic.oup.com/auk/article-abstract/doi/10.1093/auk/ukaa033/5879312)
+
 - [187. Genomic identification of intergeneric hybrids in New World wood-warblers (Aves: Parulidae)](https://academic.oup.com/biolinnean/article-abstract/doi/10.1093/biolinnean/blaa085/5879242?redirectedFrom=fulltext)
 
 **Jul 31**
