@@ -2,6 +2,10 @@
 
 Keeping up with the scientific literature is hard even with ever increasing access to information via social media and the internet. So we in the [lab](https://evolvert.uniandes.edu.co/), partly inspired by this blog [post](https://haroldpimentel.wordpress.com/2019/10/02/leaderboard/), decided to create a repository to share papers we've been reading lately. Not sure how will this progress, but here's a start to motivate people to (1) start thinking about how to do this and make it most useful, and (2) contribute. For now, I´ll just post papers and links by date in which I read them.
 
+**Aug 22**
+
+- [190. A roadmap to identifying and filling shortfalls in Neotropical ornithology](https://academic.oup.com/auk/advance-article-abstract/doi/10.1093/auk/ukaa048/5895279)
+
 **Aug 4**
 
 - [189. Are theoretical results ‘Results’?](https://elifesciences.org/articles/40018)
