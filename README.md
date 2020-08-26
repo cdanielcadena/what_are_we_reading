@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Aug 26**
 
+- [193. Movement patterns and habitat preference of Oilbirds (*Steatornis caripensis*) in the southern Andes of Colombia](http://www.ace-eco.org/vol15/iss2/art5/)
+
 - [192. Alpha-taxonomy in the cricetid rodent *Neomicroxus*, a first assessment](http://132.248.10.25/therya/index.php/THERYA/article/view/983)
 
 - [191. Hidden long-distance movements by a migratory bird](https://www.sciencedirect.com/science/article/abs/pii/S0960982220310812)
