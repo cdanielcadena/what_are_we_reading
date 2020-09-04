@@ -4,7 +4,7 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Sept 4**
 
--[196. The latitudinal gradient in the rate of evolution of a biotic interaction trait] (https://www.biorxiv.org/content/10.1101/2020.07.31.231142v1)
+- [196. The latitudinal gradient in the rate of evolution of a biotic interaction trait](https://www.biorxiv.org/content/10.1101/2020.07.31.231142v1)
 
 **Sept 2**
 
