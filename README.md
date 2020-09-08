@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Sept 8**
 
+- [199. Reproductive biology of Grey-breasted Wood-Wren (*Henicorhina leucophrys*): A comparative study of tropical and temperate wrens](https://bioone.org/journals/The-Wilson-Journal-of-Ornithology/volume-131/issue-1/18-12/Reproductive-biology-of-Grey-breasted-Wood-Wren-Henicorhina-leucophrys/10.1676/18-12.short)
+
 - [198. The theft of Morton’s Hawk, now known as Harris’s Hawk](https://dvoc.org/wp/wp-content/uploads/2020/09/Cassinia77_27_33_Halley.pdf)
 
 - [197. Tracking the warriors and spectators of acorn woodpecker wars](https://www.cell.com/current-biology/fulltext/S0960-9822(20)31098-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982220310988%3Fshowall%3Dtrue)
