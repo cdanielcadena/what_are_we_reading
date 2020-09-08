@@ -4,7 +4,7 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Sept 8**
 
-- [198. The theft of Morton’s Hawk, now nown as Harris’s Hawk](https://dvoc.org/wp/wp-content/uploads/2020/09/Cassinia77_27_33_Halley.pdf)
+- [198. The theft of Morton’s Hawk, now known as Harris’s Hawk](https://dvoc.org/wp/wp-content/uploads/2020/09/Cassinia77_27_33_Halley.pdf)
 
 - [197. Tracking the warriors and spectators of acorn woodpecker wars](https://www.cell.com/current-biology/fulltext/S0960-9822(20)31098-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982220310988%3Fshowall%3Dtrue)
 
