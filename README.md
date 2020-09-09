@@ -2,6 +2,10 @@
 
 Keeping up with the scientific literature is hard even with ever increasing access to information via social media and the internet. So we in the [lab](https://evolvert.uniandes.edu.co/), partly inspired by this blog [post](https://haroldpimentel.wordpress.com/2019/10/02/leaderboard/), decided to create a repository to share papers we've been reading lately. Not sure how will this progress, but here's a start to motivate people to (1) start thinking about how to do this and make it most useful, and (2) contribute. For now, I'll just post papers and links by date in which I read them.
 
+**Sept 9**
+
+- [200. Extreme and variable torpor among high-elevation Andean hummingbird species](https://royalsocietypublishing.org/doi/abs/10.1098/rsbl.2020.0428)
+
 **Sept 8**
 
 - [199. Reproductive biology of Grey-breasted Wood-Wren (*Henicorhina leucophrys*): A comparative study of tropical and temperate wrens](https://bioone.org/journals/The-Wilson-Journal-of-Ornithology/volume-131/issue-1/18-12/Reproductive-biology-of-Grey-breasted-Wood-Wren-Henicorhina-leucophrys/10.1676/18-12.short)
