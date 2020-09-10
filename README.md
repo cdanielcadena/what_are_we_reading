@@ -2,11 +2,15 @@
 
 Keeping up with the scientific literature is hard even with ever increasing access to information via social media and the internet. So we in the [lab](https://evolvert.uniandes.edu.co/), partly inspired by this blog [post](https://haroldpimentel.wordpress.com/2019/10/02/leaderboard/), decided to create a repository to share papers we've been reading lately. Not sure how will this progress, but here's a start to motivate people to (1) start thinking about how to do this and make it most useful, and (2) contribute. For now, I'll just post papers and links by date in which I read them.
 
-**Sept 9**
+**Sep 10**
+
+- [201. Dimensions of amphibian alpha diversity in the New World](https://onlinelibrary.wiley.com/doi/abs/10.1111/jbi.13948)
+
+**Sep 9**
 
 - [200. Extreme and variable torpor among high-elevation Andean hummingbird species](https://royalsocietypublishing.org/doi/abs/10.1098/rsbl.2020.0428)
 
-**Sept 8**
+**Sep 8**
 
 - [199. Reproductive biology of Grey-breasted Wood-Wren (*Henicorhina leucophrys*): A comparative study of tropical and temperate wrens](https://bioone.org/journals/The-Wilson-Journal-of-Ornithology/volume-131/issue-1/18-12/Reproductive-biology-of-Grey-breasted-Wood-Wren-Henicorhina-leucophrys/10.1676/18-12.short)
 
@@ -14,11 +18,11 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 - [197. Tracking the warriors and spectators of acorn woodpecker wars](https://www.cell.com/current-biology/fulltext/S0960-9822(20)31098-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982220310988%3Fshowall%3Dtrue)
 
-**Sept 4**
+**Sep 4**
 
 - [196. The latitudinal gradient in the rate of evolution of a biotic interaction trait](https://www.biorxiv.org/content/10.1101/2020.07.31.231142v1)
 
-**Sept 2**
+**Sep 2**
 
 - [195. Longer-lived tropical songbirds reduce breeding activity as they buffer impacts of drought](https://www.nature.com/articles/s41558-020-0864-3)
 
