@@ -4,7 +4,7 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Sep 11**
 
--[202. What do ecology, evolution, and behavior have in common? The organism in the middle](https://www.journals.uchicago.edu/doi/full/10.1086/709699) 
+- [202. What do ecology, evolution, and behavior have in common? The organism in the middle](https://www.journals.uchicago.edu/doi/full/10.1086/709699) 
 
 **Sep 10**
 
