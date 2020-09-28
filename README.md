@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Sep 28**
 
+- [209. Low adaptive and neutral genetic diversity in the endangered Antioquia wren (*Thryophilus sernai*)](https://link.springer.com/article/10.1007/s10592-020-01313-2)
+
 - [208. Feather stable isotope (δ2H) measurements suggest no historical variation in latitudinal origin of migrants in two declining songbirds](https://link.springer.com/article/10.1007/s10336-020-01797-2)
 
 - [207. Singing in a silent spring: Birds respond to a half-century soundscape reversion during the COVID-19 shutdown](https://science.sciencemag.org/content/early/2020/09/23/science.abd5777)
