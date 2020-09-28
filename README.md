@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Sep 28**
 
+- [207. Singing in a silent spring: Birds respond to a half-century soundscape reversion during the COVID-19 shutdown](https://science.sciencemag.org/content/early/2020/09/23/science.abd5777)
+
 - [206. Plumage patterns: Ecological functions, evolutionary origins, and advances in quantification](https://academic.oup.com/auk/advance-article-abstract/doi/10.1093/auk/ukaa060/5906268?redirectedFrom=fulltext)
 
 **Sep 25**
