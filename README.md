@@ -2,6 +2,10 @@
 
 Keeping up with the scientific literature is hard even with ever increasing access to information via social media and the internet. So we in the [lab](https://evolvert.uniandes.edu.co/), partly inspired by this blog [post](https://haroldpimentel.wordpress.com/2019/10/02/leaderboard/), decided to create a repository to share papers we've been reading lately. Not sure how will this progress, but here's a start to motivate people to (1) start thinking about how to do this and make it most useful, and (2) contribute. For now, I'll just post papers and links by date in which I read them.
 
+**Sep 29**
+
+- [210. An updated concept of subspecies resolves a dispute about the taxonomy of incompletely separated lineages](https://repository.si.edu/bitstream/handle/10088/107184/2020deQueirozHerpRev.pdf?sequence=1&isAllowed=y)
+
 **Sep 28**
 
 - [209. Low adaptive and neutral genetic diversity in the endangered Antioquia wren (*Thryophilus sernai*)](https://link.springer.com/article/10.1007/s10592-020-01313-2)
