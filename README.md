@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Sep 30**
 
+- [213. Scientific encounters between Colombia and the United States analyzed through publishing practices in *Caldasia* journal: The birds of the Republic of Colombia as a publishing event](https://www.sciencedirect.com/science/article/abs/pii/S1369848619301323)
+
 - [212. The distribution of biodiversity richness in the tropics](https://advances.sciencemag.org/content/6/37/eabc6228)
 
 - [211. Evolutionary history, not ecogeographic rules, explains size variation of tropical insects along elevational gradients](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2435.13666)
