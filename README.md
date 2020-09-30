@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Sep 30**
 
+- [212. The distribution of biodiversity richness in the tropics](https://advances.sciencemag.org/content/6/37/eabc6228)
+
 - [211. Evolutionary history, not ecogeographic rules, explains size variation of tropical insects along elevational gradients](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2435.13666)
 
 **Sep 29**
