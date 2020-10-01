@@ -4,7 +4,7 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Oct 1**
 
-- 215. [Genomic analysis of the only blind cichlid reveals extensive inactivation in eye and pigment formation genes](https://academic.oup.com/gbe/article/12/8/1392/5870377)
+- [215. Genomic analysis of the only blind cichlid reveals extensive inactivation in eye and pigment formation genes](https://academic.oup.com/gbe/article/12/8/1392/5870377)
 
 - [214. The radiation of Darwin’s giant daisies in the Galápagos Islands](https://www.cell.com/current-biology/fulltext/S0960-9822(20)31350-6)
 
