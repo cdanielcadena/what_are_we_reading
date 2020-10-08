@@ -2,6 +2,10 @@
 
 Keeping up with the scientific literature is hard even with ever increasing access to information via social media and the internet. So we in the [lab](https://evolvert.uniandes.edu.co/), partly inspired by this blog [post](https://haroldpimentel.wordpress.com/2019/10/02/leaderboard/), decided to create a repository to share papers we've been reading lately. Not sure how will this progress, but here's a start to motivate people to (1) start thinking about how to do this and make it most useful, and (2) contribute. For now, I'll just post papers and links by date in which I read them.
 
+**Oct 8**
+
+- [216. The nature of *Espeletia* species](https://www.biorxiv.org/content/10.1101/2020.09.29.318865v1)
+
 **Oct 1**
 
 - [215. Genomic analysis of the only blind cichlid reveals extensive inactivation in eye and pigment formation genes](https://academic.oup.com/gbe/article/12/8/1392/5870377)
