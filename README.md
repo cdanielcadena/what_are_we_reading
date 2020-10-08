@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Oct 8**
 
+- [217. Two extremely rare new species of fossorial salamanders of the genus *Oedipina* (Plethodontidae) from northwestern Ecuador](https://peerj.com/articles/9934/)
+
 - [216. The nature of *Espeletia* species](https://www.biorxiv.org/content/10.1101/2020.09.29.318865v1)
 
 **Oct 1**
