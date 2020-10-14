@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Oct 14**
 
+- [220. Evolutionary heritage shapes tree distributions along an Amazon-to-Andes elevation gradient](https://onlinelibrary.wiley.com/doi/full/10.1111/btp.12843)
+
 - [219. Untangling the woolly rhino’s extinction](https://www.sciencedirect.com/science/article/abs/pii/S0960982220311751)
 
 **Oct 12**
