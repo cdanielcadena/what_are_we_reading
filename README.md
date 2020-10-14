@@ -2,6 +2,10 @@
 
 Keeping up with the scientific literature is hard even with ever increasing access to information via social media and the internet. So we in the [lab](https://evolvert.uniandes.edu.co/), partly inspired by this blog [post](https://haroldpimentel.wordpress.com/2019/10/02/leaderboard/), decided to create a repository to share papers we've been reading lately. Not sure how will this progress, but here's a start to motivate people to (1) start thinking about how to do this and make it most useful, and (2) contribute. For now, I'll just post papers and links by date in which I read them.
 
+**Oct 14**
+
+- [219. Untangling the woolly rhino’s extinction](https://www.sciencedirect.com/science/article/abs/pii/S0960982220311751)
+
 **Oct 12**
 
 - [218. Miocene freshwater dolphins from La Venta, Huila, Colombia suggest independent invasions of riverine environments in tropical South America](https://www.tandfonline.com/doi/abs/10.1080/02724634.2020.1812078?journalCode=ujvp20)
