@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Oct 20**
 
+- [222. Adaptive introgression from maize has facilitated the establishment of teosinte as a noxious weed in Europe](https://www.pnas.org/content/117/41/25618)
+
 - [221. Reconstructing the history and biological consequences of a plant invasion on the Galápagos islands](https://www.biorxiv.org/content/10.1101/2020.09.26.313627v1)
 
 **Oct 14**
