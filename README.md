@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Oct 21**
 
+- [224. Selection and hybridization shaped the rapid spread of African honey bee ancestry in the Americas](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009038)
+
 - [223. Genomic differentiation in an endemic Philippine genus (Aves: *Sarcophanops*) owing to geographical isolation on recently disassociated islands](https://academic.oup.com/biolinnean/advance-article-abstract/doi/10.1093/biolinnean/blaa143/5934096)
 
 **Oct 20**
