@@ -2,6 +2,10 @@
 
 Keeping up with the scientific literature is hard even with ever increasing access to information via social media and the internet. So we in the [lab](https://evolvert.uniandes.edu.co/), partly inspired by this blog [post](https://haroldpimentel.wordpress.com/2019/10/02/leaderboard/), decided to create a repository to share papers we've been reading lately. Not sure how will this progress, but here's a start to motivate people to (1) start thinking about how to do this and make it most useful, and (2) contribute. For now, I'll just post papers and links by date in which I read them.
 
+**Oct 21**
+
+- [223. Genomic differentiation in an endemic Philippine genus (Aves: *Sarcophanops*) owing to geographical isolation on recently disassociated islands](https://academic.oup.com/biolinnean/advance-article-abstract/doi/10.1093/biolinnean/blaa143/5934096)
+
 **Oct 20**
 
 - [222. Adaptive introgression from maize has facilitated the establishment of teosinte as a noxious weed in Europe](https://www.pnas.org/content/117/41/25618)
