@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Oct 26**
 
+- [227. Seasonal niche tracking of climate emerges at the population level in a migratory bird](https://royalsocietypublishing.org/doi/10.1098/rspb.2020.1799)
+
 - [226. Long-term change in the avifauna of undisturbed Amazonian rainforest: ground-foraging birds disappear and the baseline shifts](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13628)
 
 **Oct 23**
