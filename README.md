@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Oct 29**
 
+- [229. How hummingbirds cope with sugar-charged lifestyle](https://jeb.biologists.org/content/223/20/jeb237800)
+
 - [228. Comparing rates of introgression in parasitic feather lice with differing dispersal capabilities](https://www.nature.com/articles/s42003-020-01345-x)
 
 **Oct 26**
