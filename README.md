@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Oct 30**
 
+- [231. Restoring indigenous names in taxonomy](https://www.nature.com/articles/s42003-020-01344-y)
+
 - [230. Functional genomics offers new tests of speciation hypotheses](https://www.cell.com/trends/ecology-evolution/pdf/S0169-5347(20)30216-0.pdf)
 
 **Oct 29**
