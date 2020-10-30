@@ -2,6 +2,10 @@
 
 Keeping up with the scientific literature is hard even with ever increasing access to information via social media and the internet. So we in the [lab](https://evolvert.uniandes.edu.co/), partly inspired by this blog [post](https://haroldpimentel.wordpress.com/2019/10/02/leaderboard/), decided to create a repository to share papers we've been reading lately. Not sure how will this progress, but here's a start to motivate people to (1) start thinking about how to do this and make it most useful, and (2) contribute. For now, I'll just post papers and links by date in which I read them.
 
+**Oct 30**
+
+- [230. Functional genomics offers new tests of speciation hypotheses](https://www.cell.com/trends/ecology-evolution/pdf/S0169-5347(20)30216-0.pdf)
+
 **Oct 29**
 
 - [229. How hummingbirds cope with sugar-charged lifestyle](https://jeb.biologists.org/content/223/20/jeb237800)
