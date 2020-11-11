@@ -4,7 +4,7 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Nov 9**
 
--[238. The end of botany](https://www.cell.com/trends/plant-science/fulltext/S1360-1385(20)30290-9)
+- [238. The end of botany](https://www.cell.com/trends/plant-science/fulltext/S1360-1385(20)30290-9)
 
 **Nov 6**
 
