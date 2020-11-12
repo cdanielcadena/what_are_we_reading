@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Nov 12**
 
+- [241. Climate-driven changes in the composition of New World plant communities](https://www.nature.com/articles/s41558-020-0873-2)
+
 - [240. Dense sampling of bird diversity increases power of comparative genomics](https://www.nature.com/articles/s41586-020-2873-9)
 
 **Nov 11**
