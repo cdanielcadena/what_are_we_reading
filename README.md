@@ -2,6 +2,14 @@
 
 Keeping up with the scientific literature is hard even with ever increasing access to information via social media and the internet. So we in the [lab](https://evolvert.uniandes.edu.co/), partly inspired by this blog [post](https://haroldpimentel.wordpress.com/2019/10/02/leaderboard/), decided to create a repository to share papers we've been reading lately. Not sure how will this progress, but here's a start to motivate people to (1) start thinking about how to do this and make it most useful, and (2) contribute. For now, I'll just post papers and links by date in which I read them.
 
+**Nov 20**
+
+- [244. What do you mean “functional” in ecology? Patterns versus processes](https://onlinelibrary.wiley.com/doi/10.1002/ece3.6781)
+
+**Nov 19**
+
+- [243. Evento de depredación de Venado Soche (*Mazama rufina*, Pucheran, 1851) por Taira (*Eira barbara* Linnaeus, 1758) en el Parque Nacional Natural Chingaza, Colombia](https://mammalogynotes.org/ojs/index.php/mn/article/view/169)
+
 **Nov 18**
 
 - [242. Drivers and dynamics of a massive adaptive radiation in cichlid fishes](https://www.nature.com/articles/s41586-020-2930-4)
