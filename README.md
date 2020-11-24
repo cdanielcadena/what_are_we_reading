@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Nov 24**
 
+- [247. Adaptation and latitudinal gradients in species interactions: Nest predation in birds](https://www.journals.uchicago.edu/doi/10.1086/711415)
+
 - [246. Evolutionary history of the Galápagos Rail revealed by ancient mitogenomes and modern samples](https://www.mdpi.com/1424-2818/12/11/425)
 
 - [245. Simultaneous wing molt as a catalyst for the evolution of flightlessness in birds](https://www.journals.uchicago.edu/doi/10.1086/711416)
