@@ -2,6 +2,10 @@
 
 Keeping up with the scientific literature is hard even with ever increasing access to information via social media and the internet. So we in the [lab](https://evolvert.uniandes.edu.co/), partly inspired by this blog [post](https://haroldpimentel.wordpress.com/2019/10/02/leaderboard/), decided to create a repository to share papers we've been reading lately. Not sure how will this progress, but here's a start to motivate people to (1) start thinking about how to do this and make it most useful, and (2) contribute. For now, I'll just post papers and links by date in which I read them.
 
+**Nov 24**
+
+- [245. Simultaneous wing molt as a catalyst for the evolution of flightlessness in birds](https://www.journals.uchicago.edu/doi/10.1086/711416)
+
 **Nov 20**
 
 - [244. What do you mean “functional” in ecology? Patterns versus processes](https://onlinelibrary.wiley.com/doi/10.1002/ece3.6781)
