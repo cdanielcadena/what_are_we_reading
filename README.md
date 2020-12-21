@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Dec 21**
 
+- [253. Natural selection maintains species despite frequent hybridization in the desert shrub *Encelia*](https://www.pnas.org/content/early/2020/12/11/2001337117)
+
 - [252. Individual heterozygosity predicts translocation success in threatened desert tortoises](https://science.sciencemag.org/content/370/6520/1086)
 
 **Dec 15**
