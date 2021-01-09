@@ -4,7 +4,7 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Jan 9, 2021**
 
--[254. Demographic consequences of foraging ecology explain genetic diversification in Neotropical bird species](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13674)
+- [254. Demographic consequences of foraging ecology explain genetic diversification in Neotropical bird species](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13674)
 
 **Dec 21**
 
