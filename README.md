@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Jan 13**
 
+- [261. Oilbirds disperse large seeds at longer distance than extinct megafauna](https://www.nature.com/articles/s41598-020-79280-4)
+
 - [260. New Guinea *Erythrura* parrotfinches: one species or two?](https://bioone.org/journals/bulletin-of-the-british-ornithologists-club/volume-140/issue-3/bboc.v140i3.2020.a8/New-Guinea-Erythrura-parrotfinches-one-species-or-two/10.25226/bboc.v140i3.2020.a8.full#:~:text=Two%20species%20of%20Erythrura%20parrotfinches,papuana.)
 
 - [259. Adaptations to light predict the foraging niche and disassembly of avian communities in tropical countrysides](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.3213)
