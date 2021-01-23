@@ -2,6 +2,14 @@
 
 Keeping up with the scientific literature is hard even with ever increasing access to information via social media and the internet. So we in the [lab](https://evolvert.uniandes.edu.co/), partly inspired by this blog [post](https://haroldpimentel.wordpress.com/2019/10/02/leaderboard/), decided to create a repository to share papers we've been reading lately. Not sure how will this progress, but here's a start to motivate people to (1) start thinking about how to do this and make it most useful, and (2) contribute. For now, I'll just post papers and links by date in which I read them.
 
+**Jan 23**
+
+- [265. Examining natural history through the lens of palaeogenomics](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(20)30282-2)
+
+- [264. Giant lungfish genome elucidates the conquest of land by vertebrates](https://www.nature.com/articles/s41586-021-03198-8)
+
+- [263. Multiple origins of a frameshift insertion in a mitochondrial gene in birds and turtles](https://academic.oup.com/gigascience/article/10/1/giaa161/6104268)
+
 **Jan 14**
 
 - [262. Dire wolves were the last of an ancient New World canid lineage](https://www.nature.com/articles/s41586-020-03082-x)
