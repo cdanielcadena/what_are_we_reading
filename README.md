@@ -2,6 +2,18 @@
 
 Keeping up with the scientific literature is hard even with ever increasing access to information via social media and the internet. So we in the [lab](https://evolvert.uniandes.edu.co/), partly inspired by this blog [post](https://haroldpimentel.wordpress.com/2019/10/02/leaderboard/), decided to create a repository to share papers we've been reading lately. Not sure how will this progress, but here's a start to motivate people to (1) start thinking about how to do this and make it most useful, and (2) contribute. For now, I'll just post papers and links by date in which I read them.
 
+**Feb 11**
+
+- [269. Unexpected larger distribution of paleogene stem‐rollers (AVES, CORACII): new evidence from the Eocene of Patagonia, Argentina](https://www.nature.com/articles/s41598-020-80479-8)
+
+**Feb 10**
+
+- [268. Evolution of breeding plumages in birds: A multiple-step pathway to seasonal dichromatism in New World warblers (Aves: Parulidae)](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.6606)
+
+**Feb 9**
+
+- [267. Ecological and evolutionary significance of molt in lowland Neotropical landbirds](https://academic.oup.com/auk/advance-article-abstract/doi/10.1093/ornithology/ukaa073/6124267)
+
 **Feb 6**
 
 - [266. Evidence of two deeply divergent co-existing mitochondrial genomes in the Tuatara reveals an extremely complex genomic organization](https://www.nature.com/articles/s42003-020-01639-0)
