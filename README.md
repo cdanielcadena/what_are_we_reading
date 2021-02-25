@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Feb 25**
 
+- [273. Compassionate conservation clashes with conservation biology: Should empathy, compassion, and deontological moral principles drive conservation practice?](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01139/full)
+ 
 - [272. Science denialism and compassionate conservation: response to Wallach et al. 2018](https://conbio.onlinelibrary.wiley.com/doi/abs/10.1111/cobi.13273)
 
 **Feb 23**
