@@ -4,7 +4,7 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Mar 30**
 
-- [282. Ancient DNA from the extinct Haitian cave-rail (*Nesotrochis steganinos*) suggests a biogeographic connection between the Caribbean and Old World] (https://royalsocietypublishing.org/doi/10.1098/rsbl.2020.0760)
+- [282. Ancient DNA from the extinct Haitian cave-rail (*Nesotrochis steganinos*) suggests a biogeographic connection between the Caribbean and Old World](https://royalsocietypublishing.org/doi/10.1098/rsbl.2020.0760)
 
 - [281. A principal role for female vocalizations in the repertoire of a tyrant flycatcher revealed by recordings linked to voucher specimens](https://meridian.allenpress.com/wjo/article-abstract/doi/10.1676/20-20/461726/A-principal-role-for-female-vocalizations-in-the?redirectedFrom=fulltext)
 
