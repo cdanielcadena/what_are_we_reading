@@ -2,6 +2,17 @@
 
 Keeping up with the scientific literature is hard even with ever increasing access to information via social media and the internet. So we in the [lab](https://evolvert.uniandes.edu.co/), partly inspired by this blog [post](https://haroldpimentel.wordpress.com/2019/10/02/leaderboard/), decided to create a repository to share papers we've been reading lately. Not sure how will this progress, but here's a start to motivate people to (1) start thinking about how to do this and make it most useful, and (2) contribute. For now, I'll just post papers and links by date in which I read them.
 
+
+
+**April 3**
+
+- [287. Lower elevation animal species do not tend to be better competitors than their higher elevation relatives](https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.13014)
+- [286. Extinction at the end-Cretaceous and the origin of modern Neotropical rainforests](https://science.sciencemag.org/content/372/6537/63)
+
+**April 2**
+
+- [285. Evolutionary assembly of flowering plants into sky islands](https://www.nature.com/articles/s41559-021-01423-1)
+
 **Mar 31**
 
 - [284. Exposure to climate change drives stability or collapse of desert mammal and bird communities](https://science.sciencemag.org/content/371/6529/633)
