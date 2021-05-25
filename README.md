@@ -4,11 +4,11 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **May 25**
 
-- [295. Decoloniality and anti-oppressive practices for a more ethical ecology](https://www.nature.com/articles/s41559-021-01460-w)
+- [294. Decoloniality and anti-oppressive practices for a more ethical ecology](https://www.nature.com/articles/s41559-021-01460-w)
 
-**May 21*
-- 294
-- 293
+**May 21**
+
+- [293. Adaptations to light contribute to the ecological niches and evolution of the terrestrial avifauna](https://royalsocietypublishing.org/doi/10.1098/rspb.2021.0853)
 
 **May 16**
 
