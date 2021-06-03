@@ -2,6 +2,10 @@
 
 Keeping up with the scientific literature is hard even with ever increasing access to information via social media and the internet. So we in the [lab](https://evolvert.uniandes.edu.co/), partly inspired by this blog [post](https://haroldpimentel.wordpress.com/2019/10/02/leaderboard/), decided to create a repository to share papers we've been reading lately. Not sure how will this progress, but here's a start to motivate people to (1) start thinking about how to do this and make it most useful, and (2) contribute. For now, I'll just post papers and links by date in which I read them.
 
+**Jun 3**
+
+- [296. The comparative method is not macroevolution: Across-species evidence for within-species process](https://academic.oup.com/sysbio/advance-article-abstract/doi/10.1093/sysbio/syaa086/6067420)
+
 **Jun 1**
 
 - [295. The latitudinal taxonomy gradient](https://www.sciencedirect.com/science/article/abs/pii/S0169534721001488?dgcid=rss_sd_all)
