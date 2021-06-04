@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Jun 4**
 
+- [298. Assessing the extinction probability of the Purple-winged Ground Dove, an enigmatic bamboo specialist](https://www.frontiersin.org/articles/10.3389/fevo.2021.624959/full)
+
 - [297. Male–male contest limits the expression of assortative mate preferences in a polymorphic poison frog](https://academic.oup.com/beheco/article-abstract/32/1/151/5970336?redirectedFrom=fulltext)
 
 **Jun 3**
