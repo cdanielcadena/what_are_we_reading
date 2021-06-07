@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Jun 7**
 
+- [302. Ecological and biogeographical predictors of taxonomic discord across the world’s birds](https://onlinelibrary.wiley.com/doi/10.1111/geb.13300)
+
 - [301. Temperature-dependent competitive outcomes between the fruit flies *Drosophila santomea* and *Drosophila yakuba*](https://www.journals.uchicago.edu/doi/full/10.1086/712781)
 
 - [300. Genetic data and niche differences suggest that disjunct populations of *Diglossa brunneiventris* are not sister lineages](https://academic.oup.com/auk/advance-article-abstract/doi/10.1093/ornithology/ukab015/6222127)
