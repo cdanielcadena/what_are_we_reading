@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Jun 9**
 
+- [305. Rapid adjustments of migration and life history in hemisphere-switching cliff swallows](https://www.sciencedirect.com/science/article/abs/pii/S0960982221005327)
+
 - [304. Beyond refueling: Investigating the diversity of functions of migratory stopover events](https://academic.oup.com/condor/article/123/1/duaa074/6132585)
 
 **Jun 7**
