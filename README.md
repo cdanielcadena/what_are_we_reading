@@ -5,9 +5,7 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 **Jun 15**
 
 - [308. A test of altitude-related variation in aerobic metabolism of Andean birds](https://journals.biologists.com/jeb/article-abstract/224/11/1/268957/A-test-of-altitude-related-variation-in-aerobic?redirectedFrom=fulltext)
-
 - [307. Avian taxonomy in turmoil: The 7-point rule is poorly reproducible and may overlook substantial cryptic diversity](https://academic.oup.com/auk/article-abstract/138/2/ukab010/6228531)
-
 - [306. Accelerated brain shape evolution is associated with rapid diversification in an avian radiation](https://www.journals.uchicago.edu/doi/full/10.1086/713664)
 
 **Jun 9**
