@@ -4,7 +4,7 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Jun 19**
 
-- [311.Echolocation in soft-furred tree mice](https://science.sciencemag.org/content/372/6548/eaay1513)
+- [311. Echolocation in soft-furred tree mice](https://science.sciencemag.org/content/372/6548/eaay1513)
 
 **Jun 18**
 
