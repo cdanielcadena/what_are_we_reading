@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Jul 2**
 
+- [314. Drivers of fatal bird collisions in an urban center](https://www.pnas.org/content/118/24/e2101666118)
+
 - [313. A bird-like genome from a frog: Mechanisms of genome size reduction in the ornate burrowing frog, *Platyplectrum ornatum*](https://www.pnas.org/content/118/11/e2011649118)
 
 **Jun 30**
