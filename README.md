@@ -4,7 +4,7 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Jul 2**
 
-- [313. A bird-like genome from a frog: Mechanisms of genome size reduction in the ornate burrowing frog, *Platyplectrum ornatum*] (https://www.pnas.org/content/118/11/e2011649118)
+- [313. A bird-like genome from a frog: Mechanisms of genome size reduction in the ornate burrowing frog, *Platyplectrum ornatum*](https://www.pnas.org/content/118/11/e2011649118)
 
 **Jun 30**
 
