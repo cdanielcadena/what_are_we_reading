@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Jul 23**
 
+- [318. Extreme altitude changes between night and day during marathon flights of great snipes](https://www.sciencedirect.com/science/article/pii/S0960982221007454)
+
 - [317. Rank-dependent social inheritance determines social network structure in spotted hyenas](https://science.sciencemag.org/content/373/6552/348)
 
 - [316. Climate variability and parent nesting strategies influence gas exchange across avian eggshells](https://royalsocietypublishing.org/doi/10.1098/rspb.2021.0823)
