@@ -4,6 +4,9 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Jul 23**
 
+- [319. Early nest record and additional notes on the breeding biology of the Chestnut-capped Brush-finch (*Arremon brunneinucha suttoni*) in southern Mexico
+](https://journals.sfu.ca/ornneo/index.php/ornneo/article/view/557)
+
 - [318. Extreme altitude changes between night and day during marathon flights of great snipes](https://www.sciencedirect.com/science/article/pii/S0960982221007454)
 
 - [317. Rank-dependent social inheritance determines social network structure in spotted hyenas](https://science.sciencemag.org/content/373/6552/348)
