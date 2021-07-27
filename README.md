@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Jul 27**
 
+- [322. A role of asynchrony of seasons in explaining genetic differentiation in a Neotropical toad](https://www.nature.com/articles/s41437-021-00460-7)
+
 - [321. Incorporating the speciation process into species delimitation](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008924)
 
 - [320. Evolutionary dynamics of the elevational diversity gradient in passerine birds](https://www.nature.com/articles/s41559-021-01515-y)
