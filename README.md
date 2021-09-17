@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Sep 17**
 
+- [329. Ongoing production of low-fitness hybrids limits range overlap between divergent cryptic species](https://onlinelibrary.wiley.com/doi/10.1111/mec.16015?af=R)
+
 - [328. Hormonal pleiotropy structures genetic covariance](https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.240)
 
 **Sep 14**
