@@ -2,6 +2,11 @@
 
 Keeping up with the scientific literature is hard even with ever increasing access to information via social media and the internet. So we in the [lab](https://evolvert.uniandes.edu.co/), partly inspired by this blog [post](https://haroldpimentel.wordpress.com/2019/10/02/leaderboard/), decided to create a repository to share papers we've been reading lately. Not sure how will this progress, but here's a start to motivate people to (1) start thinking about how to do this and make it most useful, and (2) contribute. For now, I'll just post papers and links by date in which I read them.
 
+**Sept 24**
+
+- [331. Genomic signatures of rapid adaptive divergence in a tropical montane species](https://royalsocietypublishing.org/doi/10.1098/rsbl.2021.0089)
+- [330. Population genomics of the critically endangered kākāpō](https://www.sciencedirect.com/science/article/pii/S2666979X21000021)
+
 **Sep 17**
 
 - [329. Ongoing production of low-fitness hybrids limits range overlap between divergent cryptic species](https://onlinelibrary.wiley.com/doi/10.1111/mec.16015?af=R)
