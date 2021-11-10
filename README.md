@@ -2,6 +2,10 @@
 
 Keeping up with the scientific literature is hard even with ever increasing access to information via social media and the internet. So we in the [lab](https://evolvert.uniandes.edu.co/), partly inspired by this blog [post](https://haroldpimentel.wordpress.com/2019/10/02/leaderboard/), decided to create a repository to share papers we've been reading lately. Not sure how will this progress, but here's a start to motivate people to (1) start thinking about how to do this and make it most useful, and (2) contribute. For now, I'll just post papers and links by date in which I read them.
 
+**Nov 10**
+
+- [338. Microevolutionary dynamics show tropical valleys are deeper for montane birds of the Atlantic Forest](https://www.nature.com/articles/s41467-021-26537-9)
+
 **Oct 31**
 
 - [337. A new genus and species of tanager (Passeriformes, Thraupidae) from the lower Yungas of western Bolivia and southern Peru](https://academic.oup.com/auk/advance-article-abstract/doi/10.1093/ornithology/ukab059/6414067)
