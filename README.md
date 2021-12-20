@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Dec 20**
 
+- [341. An integrative genomic and phenomic analysis to investigate the nature of plant species in *Escallonia* (Escalloniaceae)](https://www.nature.com/articles/s41598-021-03419-0)
+
 - [340. A multispecies *BCO2* beak color polymorphism in the Darwin’s finch radiation](https://www.sciencedirect.com/science/article/pii/S0960982221013531)
 
 **Dec 16**
