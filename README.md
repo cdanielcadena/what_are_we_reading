@@ -2,6 +2,14 @@
 
 Keeping up with the scientific literature is hard even with ever increasing access to information via social media and the internet. So we in the [lab](https://evolvert.uniandes.edu.co/), partly inspired by this blog [post](https://haroldpimentel.wordpress.com/2019/10/02/leaderboard/), decided to create a repository to share papers we've been reading lately. Not sure how will this progress, but here's a start to motivate people to (1) start thinking about how to do this and make it most useful, and (2) contribute. For now, I'll just post papers and links by date in which I read them.
 
+**Dec 20**
+
+- [340. A multispecies *BCO2* beak color polymorphism in the Darwin’s finch radiation](https://www.sciencedirect.com/science/article/pii/S0960982221013531)
+
+**Dec 16**
+
+- [339. Physiological costs of undocumented human migration across the southern United States border](https://www.science.org/doi/10.1126/science.abh1924)
+
 **Nov 10**
 
 - [338. Microevolutionary dynamics show tropical valleys are deeper for montane birds of the Atlantic Forest](https://www.nature.com/articles/s41467-021-26537-9)
