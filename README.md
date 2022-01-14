@@ -4,7 +4,7 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Jan 14**
 
-- [343, Faster evolution of a premating reproductive barrier is not associated with faster speciation rates in New World passerine birds](https://royalsocietypublishing.org/doi/10.1098/rspb.2021.1514)
+- [343. Faster evolution of a premating reproductive barrier is not associated with faster speciation rates in New World passerine birds](https://royalsocietypublishing.org/doi/10.1098/rspb.2021.1514)
 
 **Jan 13, 2022**
 
