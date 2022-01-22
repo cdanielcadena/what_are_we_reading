@@ -4,7 +4,7 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Jan 22**
 
--[344. No link between population isolation and speciation rate in squamate reptiles](https://www.pnas.org/content/119/4/e2113388119)
+- [344. No link between population isolation and speciation rate in squamate reptiles](https://www.pnas.org/content/119/4/e2113388119)
 
 **Jan 14**
 
