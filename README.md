@@ -4,6 +4,8 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Feb 15**
 
+- [346. Community modeling reveals the importance of elevation and land cover in shaping migratory bird abundance in the Andes](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/eap.2481)
+- 
 - [345. A supergene underlies linked variation in color and morphology in a Holarctic songbird](https://www.nature.com/articles/s41467-021-27173-z)
 
 **Jan 22**
