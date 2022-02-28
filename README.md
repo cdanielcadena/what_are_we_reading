@@ -10,7 +10,7 @@ Keeping up with the scientific literature is hard even with ever increasing acce
 
 **Feb 18**
 
-- [347. Patterns of bird song evolution on islands support the character release hypothesis in tropical but not in temperate latitudes] (https://onlinelibrary.wiley.com/doi/10.1111/jeb.13928?af=R)
+- [347. Patterns of bird song evolution on islands support the character release hypothesis in tropical but not in temperate latitudes](https://onlinelibrary.wiley.com/doi/10.1111/jeb.13928?af=R)
 
 **Feb 15**
 
